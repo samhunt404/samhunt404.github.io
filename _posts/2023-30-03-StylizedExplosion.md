@@ -2,7 +2,7 @@
 layout: post
 title:  "Stylized Explosion"
 summary: "Stylized explosion effect using Niagara in Unreal Engine 5"
-date:   2022-09-06 15:39:40
+date:   2023-03-30 8:31:00
 preview: /assets/ExplosionThumbnail.png
 ---
 
