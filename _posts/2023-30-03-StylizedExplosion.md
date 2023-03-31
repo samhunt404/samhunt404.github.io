@@ -5,8 +5,11 @@ summary: "Stylized explosion effect using Niagara in Unreal Engine 5"
 date:   2023-03-30 20:31:00
 preview: /assets/ExplosionThumbnail.png
 ---
-
-{include youtube.html id="9aj4PPnjzOg"}
+<div class="embed-container">
+    <iframe width="640" height="390" 
+    src="https://www.youtube.com/embed/{{ include.id }}" 
+    frameborder="0" allowfullscreen></iframe>
+</div>
 
 This effect was created using several particle emmitters, materials, and even some blueprints. I needed a simple, comic-book-esque explosion so I did the following:
 -Created a base cloud using a fresnel effect and sufrace displacement on several large spheres to give the illusion of clouds.
