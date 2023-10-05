@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Tesla Coil"
+summary: "This is a tesla coil, one of the coolest science experiments of all time, recreated in Unreal Engine 5"
+date:   2023-04-16 21:03:48
+preview: /assets/ThumbnailPortfolio.png
+---
+
+{% include youtube.html id="g_VNTnrrebY" %}
+
+This is a full Reel of my best VFX work.
