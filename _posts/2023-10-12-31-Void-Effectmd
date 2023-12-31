@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Void AOE Attack"
+summary: "This effect shows a player casting a large AOE void attack"
+date:   2023-10-5 13:18:24
+preview: /assets/VoidThumbnail.png
+---
+
+{% include youtube.html id="4pFfEM0nj_A" %}
+
+I envisioned a high-level warlock or space-centered wizard casting this spell and encompasing anything in it's area with some form of debuff and a large amount of damage. I used a simple projectile to start the effect, wherever it lands it will spawn one of these massive void-holes. The spheres being sucked into the hole are Niagara Particles, and the hole itself is a decal, so anything in it's path will be swallowed in this thick black. The shader on the player is similar to the one I used in the Space Crystal effect, I wanted to emphasize the space-esque nature of the spell.

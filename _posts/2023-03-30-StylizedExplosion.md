@@ -7,8 +7,8 @@ preview: /assets/ExplosionThumbnail.png
 ---
 {% include youtube.html id="9aj4PPnjzOg" %}
 
-This effect was created using several particle emmitters, materials, and even some blueprints. I needed a simple, comic-book-esque explosion so I did the following:
--Created a base cloud using a fresnel effect and sufrace displacement on several large spheres to give the illusion of clouds.
+This effect was created using several particle emmitters, materials, and even some blueprints. I needed a simple, comic-book-esque explosion so I emulated the elements from comic books:
+-Created a base cloud using a fresnel effect and surface displacement on several large spheres to give the illusion of clouds.
 -Added sparks with smoking trails that fly out of the explosion to give it more power.
 -Modeled debris using Blender, and had it spewing out from the explosion.
--Added scorch marks where it's placed to really show how this interacts with the environment.
+-Added scorch marks where it's placed to show how this interacts with the environment.
