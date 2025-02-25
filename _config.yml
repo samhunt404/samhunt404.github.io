@@ -1,12 +1,11 @@
 # Site settings
 title: Sam Lewis Hunt
-email: samuelhunt404@gmaillcom
+email: samuelhunt404@gmail.com
 description: > # keep this and put description below
   I make explosions, magic and lightning.
 url: "https://samhunt404.github.io" # the base hostname & protocol for your site
 linkedin_url: "https://www.linkedin.com/in/samuel-hunt-a36b381a2"
-github_username: 
-twitter_username: 
+github_username: samhunt404
 footer_text: "This site uses <a href='https://github.com/gamingportfolio/urban-theme-portfolio'>urban-theme (portfolio)</a>."
 
 # Build settings
