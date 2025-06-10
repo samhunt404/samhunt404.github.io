@@ -4,4 +4,4 @@ title: "Pre Rendered VFX Reel"
 permalink: /reel/
 ---
 
-{% include youtube.html id="w90uYfQPPgw" %}
+{% include youtube.html id="playlist?list=PLPcgrgpwJkbLLxbgq0x3lPgPYJmAeq11u" %}
