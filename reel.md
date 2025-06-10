@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Pre Rendered VFX Reel"
+title: "VFX Reel"
 permalink: /reel/
 ---
 
